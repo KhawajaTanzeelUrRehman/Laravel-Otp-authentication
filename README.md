@@ -23,7 +23,7 @@ Before running the Laravel OTP Authentication System, ensure that you have the f
 To get started with the Laravel OTP Authentication System, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/KhawajaTanzeelUrRehman/Laravel-Otp-authentication.git
 cd laravel-otp-authentication-system
 composer install
 cp .env.example .env
@@ -62,5 +62,5 @@ Contributions to the Laravel OTP Authentication System are welcome! If you would
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source.
 Please modify and customize the above README template to match your project's specific details and requirements.
